@@ -1,0 +1,22 @@
+[
+    {
+        "Inciso":"A",
+        "Respuesta": "Obtengo tanto placer como siempre por las cosas de las que disfruto",
+        "Valor": "0"
+    },
+    {
+        "Inciso":"B",
+        "Respuesta": "No disfruto tanto de las cosas como solía hacerlo",
+        "Valor": "1"
+    },
+    {
+        "Inciso":"C",
+        "Respuesta": "Obtengo muy poco placer de las cosas que solía disfrutar",
+        "Valor": "2"
+    },
+    {
+        "Inciso":"D",
+        "Respuesta": "No puedo obtener ningún placer de las cosas de las que solía disfrutar",
+        "Valor": "3"
+    }
+]

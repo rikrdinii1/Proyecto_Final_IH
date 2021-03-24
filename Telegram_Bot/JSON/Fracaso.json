@@ -1,0 +1,22 @@
+[
+    {
+        "Inciso":"A",
+        "Respuesta": "No me siento como un fracasado",
+        "Valor": "0"
+    },
+    {
+        "Inciso":"B",
+        "Respuesta": "Eh fracasado mas de lo que hubiera debido",
+        "Valor": "1"
+    },
+    {
+        "Inciso":"C",
+        "Respuesta": "Cuando miro hacia atrás",
+        "Valor": "2"
+    },
+    {
+        "Inciso":"D",
+        "Respuesta": "Siento que como persona soy un fracaso total",
+        "Valor": "3"
+    }
+]

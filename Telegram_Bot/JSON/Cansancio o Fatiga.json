@@ -1,0 +1,22 @@
+[
+    {
+        "Inciso":"A",
+        "Respuesta": "No estoy mas cansado o fatigado que lo habitual",
+        "Valor": "0"
+    },
+    {
+        "Inciso":"B",
+        "Respuesta": "Me fatigo o canso mas fácilmente que lo habitual",
+        "Valor": "1"
+    },
+    {
+        "Inciso":"C",
+        "Respuesta": "Estoy demasiado fatigado o cansado para hacer muchas de las cosas que solía hacer",
+        "Valor": "2"
+    },
+    {
+        "Inciso":"D",
+        "Respuesta": "Estoy demasiado fatigado o cansado para hacer la mayoría de las cosas que solía hacer",
+        "Valor": "3"
+    }
+]

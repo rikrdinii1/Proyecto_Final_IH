@@ -1,0 +1,22 @@
+[
+    {   
+        "Inciso":"A",
+        "Respuesta": "No me critico ni me culpo mas de lo habitual",
+        "Valor": "0"
+    },
+    {
+        "Inciso":"B",
+        "Respuesta": "Estoy mas critico conmigo mismo de lo que solía estarlo",
+        "Valor": "1"
+    },
+    {
+        "Inciso":"C",
+        "Respuesta": "Me critico a mi mismo por todos mis errores",
+        "Valor": "2"
+    },
+    {
+        "Inciso":"D",
+        "Respuesta": "Me culpo a mi mismo por todo lo malo que sucede",
+        "Valor": "3"
+    }
+]

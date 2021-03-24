@@ -1,0 +1,37 @@
+[
+    {
+        "Inciso":"A",
+        "Respuesta": "No eh experimentado ningún cambio en mi apetito",
+        "Valor": "0"
+    },
+    {
+        "Inciso":"B",
+        "Respuesta": "Mi apetito es un poco menor que lo habitual",
+        "Valor": "1"
+    },
+    {
+        "Inciso":"C",
+        "Respuesta": "Mi apetito es un poco mayor que lo habitual",
+        "Valor": "1"
+    },
+    {
+        "Inciso":"D",
+        "Respuesta": "Mi apetito es mucho menor que antes",
+        "Valor": "2"
+    },
+    {
+        "Inciso":"E",
+        "Respuesta": "Mi apetito es mucho mayor que lo habitual",
+        "Valor": "2"
+    },
+    {
+        "Inciso":"F",
+        "Respuesta": "No tengo apetito en absoluto",
+        "Valor": "3"
+    },
+    {
+        "Inciso":"G",
+        "Respuesta": "Quiero comer todo el día",
+        "Valor": "3"
+    }
+]

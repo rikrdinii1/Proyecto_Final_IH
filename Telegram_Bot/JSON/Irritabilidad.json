@@ -1,0 +1,22 @@
+[
+    {
+        "Inciso":"A",
+        "Respuesta": "No estoy tan irritable que lo habitual",
+        "Valor": "0"
+    },
+    {
+        "Inciso":"B",
+        "Respuesta": "Estoy mas irritable que lo habitual",
+        "Valor": "1"
+    },
+    {
+        "Inciso":"C",
+        "Respuesta": "Estoy mucho mas irritable que lo habitual",
+        "Valor": "2"
+    },
+    {
+        "Inciso":"D",
+        "Respuesta": "Estoy irritable todo el tiempo",
+        "Valor": "3"
+    }
+]

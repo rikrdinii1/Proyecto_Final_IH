@@ -1,0 +1,22 @@
+[
+    {
+        "Inciso":"A",
+        "Respuesta": "No siento que este siendo castigado",
+        "Valor": "0"
+    },
+    {
+        "Inciso":"B",
+        "Respuesta": "Siento que tal vez pueda ser castigado",
+        "Valor": "1"
+    },
+    {
+        "Inciso":"C",
+        "Respuesta": "Espero ser castigado",
+        "Valor": "2"
+    },
+    {
+        "Inciso":"D",
+        "Respuesta": "Siento que estoy siendo castigado",
+        "Valor": "3"
+    }
+]

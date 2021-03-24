@@ -1,0 +1,37 @@
+[
+    {
+        "Inciso":"A",
+        "Respuesta": "No he experimentado ningún cambio en mis hábitos de sueño",
+        "Valor": "0"
+    },
+    {
+        "Inciso":"B",
+        "Respuesta": "Duermo un poco mas que lo habitual",
+        "Valor": "1"
+    },
+    {
+        "Inciso":"C",
+        "Respuesta": "Duermo un poco menos que lo habitual",
+        "Valor": "1"
+    },
+    {
+        "Inciso":"D",
+        "Respuesta": "Duermo mucho mas que lo habitual",
+        "Valor": "2"
+    },
+    {
+        "Inciso":"E",
+        "Respuesta": "Duermo mucho menos que lo habitual",
+        "Valor": "2"
+    },
+    {
+        "Inciso":"F",
+        "Respuesta": "Duermo la mayor parte del día",
+        "Valor": "3"
+    },
+    {
+        "Inciso":"G",
+        "Respuesta": "Me despierto 1-2 horas mas temprano y no puedo volver a dormirme",
+        "Valor": "3"
+    }
+]

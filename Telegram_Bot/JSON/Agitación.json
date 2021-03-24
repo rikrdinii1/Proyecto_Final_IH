@@ -1,0 +1,21 @@
+[
+    {   "Inciso":"A",
+        "Respuesta": "No estoy mas inquieto o tenso que lo habitual",
+        "Valor": "0"
+    },
+    {   
+        "Inciso":"B",
+        "Respuesta": "Me siento mas inquieto o tenso que lo habitual",
+        "Valor": "1"
+    },
+    {
+        "Inciso":"C",
+        "Respuesta": "Estoy tan inquieto o agitado que me es difícil quedarme quieto",
+        "Valor": "2"
+    },
+    {
+        "Inciso":"D",
+        "Respuesta": "Estoy tan inquieto o agitado que tengo que estar siempre en movimiento o haciendo algo",
+        "Valor": "3"
+    }
+]

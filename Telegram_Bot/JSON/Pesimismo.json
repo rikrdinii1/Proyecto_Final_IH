@@ -1,0 +1,22 @@
+[
+    {
+        "Inciso":"A",
+        "Respuesta": "No estoy desalentado respecto del mi futuro",
+        "Valor": "0"
+    },
+    {
+        "Inciso":"B",
+        "Respuesta": "Me siento mas desalentado respecto de mi futuro que lo que solía estarlo",
+        "Valor": "1"
+    },
+    {
+        "Inciso":"C",
+        "Respuesta": "No espero que las cosas funcionen para mi",
+        "Valor": "2"
+    },
+    {
+        "Inciso":"D",
+        "Respuesta": "Siento que no hay esperanza para mi futuro y que solo puede empeorar",
+        "Valor": "3"
+    }
+]

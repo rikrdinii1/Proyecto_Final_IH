@@ -1,0 +1,22 @@
+[
+    {
+        "Inciso":"A",
+        "Respuesta": "No me siento que no sea valioso",
+        "Valor": "0"
+    },
+    {
+        "Inciso":"B",
+        "Respuesta": "No me considero a mi mismo tan valioso y útil como solía considerarme",
+        "Valor": "1"
+    },
+    {
+        "Inciso":"C",
+        "Respuesta": "Me siento menos valioso cuando me comparo con otros",
+        "Valor": "2"
+    },
+    {
+        "Inciso":"D",
+        "Respuesta": "Siento que no valgo nada",
+        "Valor": "3"
+    }
+]

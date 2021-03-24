@@ -1,0 +1,559 @@
+{
+    "Temas": [
+        {
+            "Tema": "Tristeza",
+            "Data": [
+                {
+                    "Inciso": "A",
+                    "Respuesta": "No me siento triste",
+                    "Valor": 0
+                },
+                {
+                    "Inciso": "B",
+                    "Respuesta": "Me siento triste gran parte del tiempo",
+                    "Valor": 1
+                },
+                {
+                    "Inciso": "C",
+                    "Respuesta": "Me siento triste todo el tiempo",
+                    "Valor": 2
+                },
+                {
+                    "Inciso": "D",
+                    "Respuesta": "Me siento tan triste o soy tan infeliz que no puedo soportarlo",
+                    "Valor": 3
+                }
+            ]
+        },
+        {
+            "Tema": "Pesimismo",
+            "Data": [
+                {
+                    "Inciso": "A",
+                    "Respuesta": "No estoy desalentado respecto del mi futuro",
+                    "Valor": 0
+                },
+                {
+                    "Inciso": "B",
+                    "Respuesta": "Me siento mas desalentado respecto de mi futuro que lo que sol\u00eda estarlo",
+                    "Valor": 1
+                },
+                {
+                    "Inciso": "C",
+                    "Respuesta": "No espero que las cosas funcionen para mi",
+                    "Valor": 2
+                },
+                {
+                    "Inciso": "D",
+                    "Respuesta": "Siento que no hay esperanza para mi futuro y que solo puede empeorar",
+                    "Valor": 3
+                }
+            ]
+        },
+        {
+            "Tema": "Fracaso",
+            "Data": [
+                {
+                    "Inciso": "A",
+                    "Respuesta": "No me siento como un fracasado",
+                    "Valor": 0
+                },
+                {
+                    "Inciso": "B",
+                    "Respuesta": "Eh fracasado mas de lo que hubiera debido",
+                    "Valor": 1
+                },
+                {
+                    "Inciso": "C",
+                    "Respuesta": "Cuando miro hacia atr\u00e1s",
+                    "Valor": 2
+                },
+                {
+                    "Inciso": "D",
+                    "Respuesta": "Siento que como persona soy un fracaso total",
+                    "Valor": 3
+                }
+            ]
+        },
+        {
+            "Tema": "Perdida de Placer",
+            "Data": [
+                {
+                    "Inciso": "A",
+                    "Respuesta": "Obtengo tanto placer como siempre por las cosas de las que disfruto",
+                    "Valor": 0
+                },
+                {
+                    "Inciso": "B",
+                    "Respuesta": "No disfruto tanto de las cosas como sol\u00eda hacerlo",
+                    "Valor": 1
+                },
+                {
+                    "Inciso": "C",
+                    "Respuesta": "Obtengo muy poco placer de las cosas que sol\u00eda disfrutar",
+                    "Valor": 2
+                },
+                {
+                    "Inciso": "D",
+                    "Respuesta": "No puedo obtener ning\u00fan placer de las cosas de las que sol\u00eda disfrutar",
+                    "Valor": 3
+                }
+            ]
+        },
+        {
+            "Tema": "Sentimientos de Culpa",
+            "Data": [
+                {
+                    "Inciso": "A",
+                    "Respuesta": "No me siento particularmente culpable",
+                    "Valor": 0
+                },
+                {
+                    "Inciso": "B",
+                    "Respuesta": "Me siento culpable respecto de varias cosas que eh hecho o que deber\u00eda haber hecho",
+                    "Valor": 1
+                },
+                {
+                    "Inciso": "C",
+                    "Respuesta": "Me siento bastante culpable la mayor parte del tiempo",
+                    "Valor": 2
+                },
+                {
+                    "Inciso": "D",
+                    "Respuesta": "Me siento culpable todo el tiempo",
+                    "Valor": 3
+                }
+            ]
+        },
+        {
+            "Tema": "Sentimientos de Castigo",
+            "Data": [
+                {
+                    "Inciso": "A",
+                    "Respuesta": "No siento que este siendo castigado",
+                    "Valor": 0
+                },
+                {
+                    "Inciso": "B",
+                    "Respuesta": "Siento que tal vez pueda ser castigado",
+                    "Valor": 1
+                },
+                {
+                    "Inciso": "C",
+                    "Respuesta": "Espero ser castigado",
+                    "Valor": 2
+                },
+                {
+                    "Inciso": "D",
+                    "Respuesta": "Siento que estoy siendo castigado",
+                    "Valor": 3
+                }
+            ]
+        },
+        {
+            "Tema": "Disconformidad con uno mismo",
+            "Data": [
+                {
+                    "Inciso": "A",
+                    "Respuesta": "Siento acerca de mi lo mismo que siempre",
+                    "Valor": 0
+                },
+                {
+                    "Inciso": "B",
+                    "Respuesta": "Eh perdido la confianza en mi mismo",
+                    "Valor": 1
+                },
+                {
+                    "Inciso": "C",
+                    "Respuesta": "Estoy decepcionado conmigo mismo",
+                    "Valor": 2
+                },
+                {
+                    "Inciso": "D",
+                    "Respuesta": "No me gusto a mi mismo",
+                    "Valor": 3
+                }
+            ]
+        },
+        {
+            "Tema": "Autocritica",
+            "Data": [
+                {
+                    "Inciso": "A",
+                    "Respuesta": "No me critico ni me culpo mas de lo habitual",
+                    "Valor": 0
+                },
+                {
+                    "Inciso": "B",
+                    "Respuesta": "Estoy mas critico conmigo mismo de lo que sol\u00eda estarlo",
+                    "Valor": 1
+                },
+                {
+                    "Inciso": "C",
+                    "Respuesta": "Me critico a mi mismo por todos mis errores",
+                    "Valor": 2
+                },
+                {
+                    "Inciso": "D",
+                    "Respuesta": "Me culpo a mi mismo por todo lo malo que sucede",
+                    "Valor": 3
+                }
+            ]
+        },
+        {
+            "Tema": "Pensamientos o Deseos Suicidas",
+            "Data": [
+                {
+                    "Inciso": "A",
+                    "Respuesta": "No tengo ning\u00fan pensamiento de matarme",
+                    "Valor": 0
+                },
+                {
+                    "Inciso": "B",
+                    "Respuesta": "He tenido pensamientos de matarme",
+                    "Valor": 1
+                },
+                {
+                    "Inciso": "C",
+                    "Respuesta": "Querr\u00eda matarme",
+                    "Valor": 2
+                },
+                {
+                    "Inciso": "D",
+                    "Respuesta": "Me matar\u00eda si tuviera la oportunidad de hacerlo",
+                    "Valor": 3
+                }
+            ]
+        },
+        {
+            "Tema": "Llanto",
+            "Data": [
+                {
+                    "Inciso": "A",
+                    "Respuesta": "No lloro mas de lo que sol\u00eda hacerlo",
+                    "Valor": 0
+                },
+                {
+                    "Inciso": "B",
+                    "Respuesta": "Lloro mas de lo que sol\u00eda hacerlo",
+                    "Valor": 1
+                },
+                {
+                    "Inciso": "C",
+                    "Respuesta": "Lloro por cualquier peque\u00f1ez",
+                    "Valor": 2
+                },
+                {
+                    "Inciso": "D",
+                    "Respuesta": "Siento ganas de llorar pero no puedo",
+                    "Valor": 3
+                }
+            ]
+        },
+        {
+            "Tema": "Agitaci\u00f3n",
+            "Data": [
+                {
+                    "Inciso": "A",
+                    "Respuesta": "No estoy mas inquieto o tenso que lo habitual",
+                    "Valor": 0
+                },
+                {
+                    "Inciso": "B",
+                    "Respuesta": "Me siento mas inquieto o tenso que lo habitual",
+                    "Valor": 1
+                },
+                {
+                    "Inciso": "C",
+                    "Respuesta": "Estoy tan inquieto o agitado que me es dif\u00edcil quedarme quieto",
+                    "Valor": 2
+                },
+                {
+                    "Inciso": "D",
+                    "Respuesta": "Estoy tan inquieto o agitado que tengo que estar siempre en movimiento o haciendo algo",
+                    "Valor": 3
+                }
+            ]
+        },
+        {
+            "Tema": "Perdida de Inter\u00e9s",
+            "Data": [
+                {
+                    "Inciso": "A",
+                    "Respuesta": "No eh perdido el inter\u00e9s en otras actividades o personas",
+                    "Valor": 0
+                },
+                {
+                    "Inciso": "B",
+                    "Respuesta": "Estoy menos interesado que antes en otras personas o cosas",
+                    "Valor": 1
+                },
+                {
+                    "Inciso": "C",
+                    "Respuesta": "Eh perdido casi todo el inter\u00e9s en otras personas o cosas",
+                    "Valor": 2
+                },
+                {
+                    "Inciso": "D",
+                    "Respuesta": "Me es dif\u00edcil interesarme por algo",
+                    "Valor": 3
+                }
+            ]
+        },
+        {
+            "Tema": "Indecisi\u00f3n",
+            "Data": [
+                {
+                    "Inciso": "A",
+                    "Respuesta": "Tomo mis propias decisiones tan bien como siempre",
+                    "Valor": 0
+                },
+                {
+                    "Inciso": "B",
+                    "Respuesta": "Me resulta mas dif\u00edcil que de costumbre tomar decisiones",
+                    "Valor": 1
+                },
+                {
+                    "Inciso": "C",
+                    "Respuesta": "Encuentro mucha mas dificultad que antes para tomar decisiones",
+                    "Valor": 2
+                },
+                {
+                    "Inciso": "D",
+                    "Respuesta": "Tengo problemas para tomar cualquier decisi\u00f3n",
+                    "Valor": 3
+                }
+            ]
+        },
+        {
+            "Tema": "Desvalorizaci\u00f3n",
+            "Data": [
+                {
+                    "Inciso": "A",
+                    "Respuesta": "No me siento que no sea valioso",
+                    "Valor": 0
+                },
+                {
+                    "Inciso": "B",
+                    "Respuesta": "No me considero a mi mismo tan valioso y \u00fatil como sol\u00eda considerarme",
+                    "Valor": 1
+                },
+                {
+                    "Inciso": "C",
+                    "Respuesta": "Me siento menos valioso cuando me comparo con otros",
+                    "Valor": 2
+                },
+                {
+                    "Inciso": "D",
+                    "Respuesta": "Siento que no valgo nada",
+                    "Valor": 3
+                }
+            ]
+        },
+        {
+            "Tema": "Perdida de Energ\u00eda",
+            "Data": [
+                {
+                    "Inciso": "A",
+                    "Respuesta": "Tengo tanta energ\u00eda como siempre",
+                    "Valor": 0
+                },
+                {
+                    "Inciso": "B",
+                    "Respuesta": "Tengo menos energ\u00eda que la que sol\u00eda tener",
+                    "Valor": 1
+                },
+                {
+                    "Inciso": "C",
+                    "Respuesta": "No tengo suficiente energ\u00eda para hacer demasiado",
+                    "Valor": 2
+                },
+                {
+                    "Inciso": "D",
+                    "Respuesta": "No tengo energ\u00eda suficiente para hacer nada",
+                    "Valor": 3
+                }
+            ]
+        },
+        {
+            "Tema": "Cambios en los H\u00e1bitos de Sue\u00f1o",
+            "Data": [
+                {
+                    "Inciso": "A",
+                    "Respuesta": "No he experimentado ning\u00fan cambio en mis h\u00e1bitos de sue\u00f1o",
+                    "Valor": 0
+                },
+                {
+                    "Inciso": "B",
+                    "Respuesta": "Duermo un poco mas que lo habitual",
+                    "Valor": 1
+                },
+                {
+                    "Inciso": "C",
+                    "Respuesta": "Duermo un poco menos que lo habitual",
+                    "Valor": 1
+                },
+                {
+                    "Inciso": "D",
+                    "Respuesta": "Duermo mucho mas que lo habitual",
+                    "Valor": 2
+                },
+                {
+                    "Inciso": "E",
+                    "Respuesta": "Duermo mucho menos que lo habitual",
+                    "Valor": 2
+                },
+                {
+                    "Inciso": "F",
+                    "Respuesta": "Duermo la mayor parte del d\u00eda",
+                    "Valor": 3
+                },
+                {
+                    "Inciso": "G",
+                    "Respuesta": "Me despierto 1-2 horas mas temprano y no puedo volver a dormirme",
+                    "Valor": 3
+                }
+            ]
+        },
+        {
+            "Tema": "Irritabilidad",
+            "Data": [
+                {
+                    "Inciso": "A",
+                    "Respuesta": "No estoy tan irritable que lo habitual",
+                    "Valor": 0
+                },
+                {
+                    "Inciso": "B",
+                    "Respuesta": "Estoy mas irritable que lo habitual",
+                    "Valor": 1
+                },
+                {
+                    "Inciso": "C",
+                    "Respuesta": "Estoy mucho mas irritable que lo habitual",
+                    "Valor": 2
+                },
+                {
+                    "Inciso": "D",
+                    "Respuesta": "Estoy irritable todo el tiempo",
+                    "Valor": 3
+                }
+            ]
+        },
+        {
+            "Tema": "Cambios en el Apetito",
+            "Data": [
+                {
+                    "Inciso": "A",
+                    "Respuesta": "No eh experimentado ning\u00fan cambio en mi apetito",
+                    "Valor": 0
+                },
+                {
+                    "Inciso": "B",
+                    "Respuesta": "Mi apetito es un poco menor que lo habitual",
+                    "Valor": 1
+                },
+                {
+                    "Inciso": "C",
+                    "Respuesta": "Mi apetito es un poco mayor que lo habitual",
+                    "Valor": 1
+                },
+                {
+                    "Inciso": "D",
+                    "Respuesta": "Mi apetito es mucho menor que antes",
+                    "Valor": 2
+                },
+                {
+                    "Inciso": "E",
+                    "Respuesta": "Mi apetito es mucho mayor que lo habitual",
+                    "Valor": 2
+                },
+                {
+                    "Inciso": "F",
+                    "Respuesta": "No tengo apetito en absoluto",
+                    "Valor": 3
+                },
+                {
+                    "Inciso": "G",
+                    "Respuesta": "Quiero comer todo el d\u00eda",
+                    "Valor": 3
+                }
+            ]
+        },
+        {
+            "Tema": "Dificultad de Concentraci\u00f3n",
+            "Data": [
+                {
+                    "Inciso": "A",
+                    "Respuesta": "Puedo concentrarme tan bien como siempre",
+                    "Valor": 0
+                },
+                {
+                    "Inciso": "B",
+                    "Respuesta": "No puedo concentrarme tan bien como habitualmente",
+                    "Valor": 1
+                },
+                {
+                    "Inciso": "C",
+                    "Respuesta": "Me es dif\u00edcil mantener la mente en algo por mucho tiempo",
+                    "Valor": 2
+                },
+                {
+                    "Inciso": "D",
+                    "Respuesta": "Encuentro que no puedo concentrarme en nada",
+                    "Valor": 3
+                }
+            ]
+        },
+        {
+            "Tema": "Cansancio o Fatiga",
+            "Data": [
+                {
+                    "Inciso": "A",
+                    "Respuesta": "No estoy mas cansado o fatigado que lo habitual",
+                    "Valor": 0
+                },
+                {
+                    "Inciso": "B",
+                    "Respuesta": "Me fatigo o canso mas f\u00e1cilmente que lo habitual",
+                    "Valor": 1
+                },
+                {
+                    "Inciso": "C",
+                    "Respuesta": "Estoy demasiado fatigado o cansado para hacer muchas de las cosas que sol\u00eda hacer",
+                    "Valor": 2
+                },
+                {
+                    "Inciso": "D",
+                    "Respuesta": "Estoy demasiado fatigado o cansado para hacer la mayor\u00eda de las cosas que sol\u00eda hacer",
+                    "Valor": 3
+                }
+            ]
+        },
+        {
+            "Tema": "Perdida de Inter\u00e9s en el Sexo",
+            "Data": [
+                {
+                    "Inciso": "A",
+                    "Respuesta": "No he notado ning\u00fan cambio reciente en mi inter\u00e9s por el sexo",
+                    "Valor": 0
+                },
+                {
+                    "Inciso": "B",
+                    "Respuesta": "Estoy menos interesado en el sexo de lo que sol\u00eda estarlo",
+                    "Valor": 1
+                },
+                {
+                    "Inciso": "C",
+                    "Respuesta": "Estoy mucho menos interesado en el sexo",
+                    "Valor": 2
+                },
+                {
+                    "Inciso": "D",
+                    "Respuesta": "He perdido completamente el inter\u00e9s en el sexo",
+                    "Valor": 3
+                }
+            ]
+        }
+    ]
+}

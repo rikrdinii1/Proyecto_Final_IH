@@ -1,0 +1,22 @@
+[
+    {
+        "Inciso":"A",
+        "Respuesta": "Tengo tanta energía como siempre",
+        "Valor": "0"
+    },
+    {
+        "Inciso":"B",
+        "Respuesta": "Tengo menos energía que la que solía tener",
+        "Valor": "1"
+    },
+    {
+        "Inciso":"C",
+        "Respuesta": "No tengo suficiente energía para hacer demasiado",
+        "Valor": "2"
+    },
+    {
+        "Inciso":"D",
+        "Respuesta": "No tengo energía suficiente para hacer nada",
+        "Valor": "3"
+    }
+]

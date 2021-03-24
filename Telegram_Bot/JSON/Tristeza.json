@@ -1,0 +1,22 @@
+[
+    {
+        "Inciso":"A",
+        "Respuesta": "No me siento triste",
+        "Valor": "0"
+    },
+    {
+        "Inciso":"B",
+        "Respuesta": "Me siento triste gran parte del tiempo",
+        "Valor": "1"
+    },
+    {
+        "Inciso":"C",
+        "Respuesta": "Me siento triste todo el tiempo",
+        "Valor": "2"
+    },
+    {
+        "Inciso":"D",
+        "Respuesta": "Me siento tan triste o soy tan infeliz que no puedo soportarlo",
+        "Valor": "3"
+    }
+]

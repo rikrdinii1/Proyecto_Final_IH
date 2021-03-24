@@ -1,0 +1,22 @@
+[
+    {
+        "Inciso":"A",
+        "Respuesta": "Tomo mis propias decisiones tan bien como siempre",
+        "Valor": "0"
+    },
+    {
+        "Inciso":"B",
+        "Respuesta": "Me resulta mas difícil que de costumbre tomar decisiones",
+        "Valor": "1"
+    },
+    {
+        "Inciso":"C",
+        "Respuesta": "Encuentro mucha mas dificultad que antes para tomar decisiones",
+        "Valor": "2"
+    },
+    {
+        "Inciso":"D",
+        "Respuesta": "Tengo problemas para tomar cualquier decisión",
+        "Valor": "3"
+    }
+]

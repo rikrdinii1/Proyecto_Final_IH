@@ -1,0 +1,22 @@
+[
+    {
+        "Inciso":"A",
+        "Respuesta": "Puedo concentrarme tan bien como siempre",
+        "Valor": "0"
+    },
+    {
+        "Inciso":"B",
+        "Respuesta": "No puedo concentrarme tan bien como habitualmente",
+        "Valor": "1"
+    },
+    {
+        "Inciso":"C",
+        "Respuesta": "Me es difícil mantener la mente en algo por mucho tiempo",
+        "Valor": "2"
+    },
+    {
+        "Inciso":"D",
+        "Respuesta": "Encuentro que no puedo concentrarme en nada",
+        "Valor": "3"
+    }
+]

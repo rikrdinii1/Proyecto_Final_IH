@@ -1,0 +1,22 @@
+[
+    {
+        "Inciso":"A",
+        "Respuesta": "No lloro mas de lo que solía hacerlo",
+        "Valor": "0"
+    },
+    {
+        "Inciso":"B",
+        "Respuesta": "Lloro mas de lo que solía hacerlo",
+        "Valor": "1"
+    },
+    {
+        "Inciso":"C",
+        "Respuesta": "Lloro por cualquier pequeñez",
+        "Valor": "2"
+    },
+    {
+        "Inciso":"D",
+        "Respuesta": "Siento ganas de llorar pero no puedo",
+        "Valor": "3"
+    }
+]

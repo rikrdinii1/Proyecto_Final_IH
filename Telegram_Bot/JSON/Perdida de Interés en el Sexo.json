@@ -1,0 +1,22 @@
+[
+    {
+        "Inciso":"A",
+        "Respuesta": "No he notado ningún cambio reciente en mi interés por el sexo",
+        "Valor": "0"
+    },
+    {
+        "Inciso":"B",
+        "Respuesta": "Estoy menos interesado en el sexo de lo que solía estarlo",
+        "Valor": "1"
+    },
+    {
+        "Inciso":"C",
+        "Respuesta": "Estoy mucho menos interesado en el sexo",
+        "Valor": "2"
+    },
+    {
+        "Inciso":"D",
+        "Respuesta": "He perdido completamente el interés en el sexo",
+        "Valor": "3"
+    }
+]

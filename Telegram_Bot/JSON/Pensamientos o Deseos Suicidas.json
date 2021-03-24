@@ -1,0 +1,22 @@
+[
+    {
+        "Inciso":"A",
+        "Respuesta": "No tengo ningún pensamiento de matarme",
+        "Valor": "0"
+    },
+    {
+        "Inciso":"B",
+        "Respuesta": "He tenido pensamientos de matarme",
+        "Valor": "1"
+    },
+    {
+        "Inciso":"C",
+        "Respuesta": "Querría matarme",
+        "Valor": "2"
+    },
+    {
+        "Inciso":"D",
+        "Respuesta": "Me mataría si tuviera la oportunidad de hacerlo",
+        "Valor": "3"
+    }
+]

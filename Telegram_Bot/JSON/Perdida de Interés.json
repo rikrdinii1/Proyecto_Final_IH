@@ -1,0 +1,22 @@
+[
+    {
+        "Inciso":"A",
+        "Respuesta": "No eh perdido el interés en otras actividades o personas",
+        "Valor": "0"
+    },
+    {
+        "Inciso":"B",
+        "Respuesta": "Estoy menos interesado que antes en otras personas o cosas",
+        "Valor": "1"
+    },
+    {
+        "Inciso":"C",
+        "Respuesta": "Eh perdido casi todo el interés en otras personas o cosas",
+        "Valor": "2"
+    },
+    {
+        "Inciso":"D",
+        "Respuesta": "Me es difícil interesarme por algo",
+        "Valor": "3"
+    }
+]

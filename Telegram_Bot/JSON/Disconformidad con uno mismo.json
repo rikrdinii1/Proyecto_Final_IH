@@ -1,0 +1,22 @@
+[
+    {
+        "Inciso":"A",
+        "Respuesta": "Siento acerca de mi lo mismo que siempre",
+        "Valor": "0"
+    },
+    {
+        "Inciso":"B",
+        "Respuesta": "Eh perdido la confianza en mi mismo",
+        "Valor": "1"
+    },
+    {
+        "Inciso":"C",
+        "Respuesta": "Estoy decepcionado conmigo mismo",
+        "Valor": "2"
+    },
+    {
+        "Inciso":"D",
+        "Respuesta": "No me gusto a mi mismo",
+        "Valor": "3"
+    }
+]

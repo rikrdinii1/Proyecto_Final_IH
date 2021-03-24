@@ -1,0 +1,22 @@
+[
+    {
+        "Inciso":"A",
+        "Respuesta": "No me siento particularmente culpable",
+        "Valor": "0"
+    },
+    {
+        "Inciso":"B",
+        "Respuesta": "Me siento culpable respecto de varias cosas que eh hecho o que debería haber hecho",
+        "Valor": "1"
+    },
+    {
+        "Inciso":"C",
+        "Respuesta": "Me siento bastante culpable la mayor parte del tiempo",
+        "Valor": "2"
+    },
+    {
+        "Inciso":"D",
+        "Respuesta": "Me siento culpable todo el tiempo",
+        "Valor": "3"
+    }
+]
