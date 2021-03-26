@@ -1,0 +1,21 @@
+<DescargaMasiva>
+  <Descarga totalMb="186.84 MB" aut="a6281768-c0d3-4895-bf23-a4a056ada7a1" />
+  <Archivos>
+    <Archivo>https://www.inegi.org.mx/contenidos/programas//mortalidad/datosabiertos/fetales/2019/conjunto_de_datos_defunciones_fetales_2019_csv.zip</Archivo>
+    <Archivo>https://www.inegi.org.mx/contenidos/programas/mortalidad/datosabiertos/defunciones/2012/defunciones_base_datos_2012_csv.zip</Archivo>
+    <Archivo>https://www.inegi.org.mx/contenidos/programas/mortalidad/datosabiertos/defunciones/2013/defunciones_base_datos_2013_csv.zip</Archivo>
+    <Archivo>https://www.inegi.org.mx/contenidos/programas/mortalidad/datosabiertos/defunciones/2014/defunciones_base_datos_2014_csv.zip</Archivo>
+    <Archivo>https://www.inegi.org.mx/contenidos/programas/mortalidad/datosabiertos/defunciones/2015/defunciones_base_datos_2015_csv.zip</Archivo>
+    <Archivo>https://www.inegi.org.mx/contenidos/programas/mortalidad/datosabiertos/defunciones/2016/defunciones_base_datos_2016_csv.zip</Archivo>
+    <Archivo>https://www.inegi.org.mx/contenidos/programas/mortalidad/datosabiertos/defunciones/2017/conjunto_de_datos_defunciones_generales_2017_csv.zip</Archivo>
+    <Archivo>https://www.inegi.org.mx/contenidos/programas/mortalidad/datosabiertos/defunciones/2018/conjunto_de_datos_defunciones_registradas_2018_csv.zip</Archivo>
+    <Archivo>https://www.inegi.org.mx/contenidos/programas/mortalidad/datosabiertos/defunciones/2019/conjunto_de_datos_defunciones_registradas_2019_csv.zip</Archivo>
+    <Archivo>https://www.inegi.org.mx/contenidos/programas/mortalidad/datosabiertos/fetales/2012/fetales_base_de_datos_2012_csv.zip</Archivo>
+    <Archivo>https://www.inegi.org.mx/contenidos/programas/mortalidad/datosabiertos/fetales/2013/fetales_base_de_datos_2013_csv.zip</Archivo>
+    <Archivo>https://www.inegi.org.mx/contenidos/programas/mortalidad/datosabiertos/fetales/2014/fetales_base_de_datos_2014_csv.zip</Archivo>
+    <Archivo>https://www.inegi.org.mx/contenidos/programas/mortalidad/datosabiertos/fetales/2015/fetales_base_de_datos_2015_csv.zip</Archivo>
+    <Archivo>https://www.inegi.org.mx/contenidos/programas/mortalidad/datosabiertos/fetales/2016/fetales_base_de_datos_2016_csv.zip</Archivo>
+    <Archivo>https://www.inegi.org.mx/contenidos/programas/mortalidad/datosabiertos/fetales/2017/conjunto_de_datos_defunciones_fetales_2017_csv.zip</Archivo>
+    <Archivo>https://www.inegi.org.mx/contenidos/programas/mortalidad/datosabiertos/fetales/2018/conjunto_de_datos_defunciones_fetales_2018_csv.zip</Archivo>
+  </Archivos>
+</DescargaMasiva>

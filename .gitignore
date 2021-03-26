@@ -1,3 +1,4 @@
 *.agdai
 *.ipynb_checkpoints
+*.csv
 MAlonzo/**

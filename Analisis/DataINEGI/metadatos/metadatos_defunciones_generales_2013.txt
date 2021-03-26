@@ -1,0 +1,33 @@
+Identifier: MEX-INEGI.40.202.06-EVM-2013
+
+Title: Estadísticas Vitales. Defunciones generales 2013
+
+Description: INEGI. Estadísticas Vitales. Defunciones generales 2013. SNIEG. Información de Interés Nacional.
+
+La estadística de mortalidad, se obtiene mediante el aprovechamiento de los registros administrativos captados por el Registro Civil y las Agencias del Ministerio Público.
+
+Las estadísticas de mortalidad, proporcionan información acerca de defunciones generales, su propósito es producir en forma continua y permanente, información que permita conocer y comparar el volumen, tendencias y características de la mortalidad, en los diferentes ámbitos geográficos del país, lo que constituye un insumo para el diseño, análisis y evaluación de programas de salud pública; para prevención y control de enfermedades sujetas a vigilancia epidemiológica; así como prevención de accidentes y en el estudio de diferencias de la mortalidad por edad, sexo y causa básica de la defunción.
+
+Su periodicidad es anual y los resultados se presentan por entidad federativa y municipio, referidos a tres ámbitos: lugar de registro, lugar de ocurrencia y de residencia habitual del fallecido.
+
+Modified: 2015-12-09  
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: atención.usuarios@inegi.org.mx
+
+License: https://www.inegi.org.mx/inegi/terminos.html
+
+DataDictionary: http://www3.inegi.org.mx/rnm/index.php/catalog/178
+
+Keyword: Defunciones, Muertes, Causas de muerte, Mortalidad
+
+ContactPoint: Lic. José de Jesús Esquivel de la Rosa, 01800 111 4634
+
+Temporal: 2013-01-01-2013-12-31
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anualmente
+
+Distribution: https://www.inegi.org.mx/programas/mortalidad/default.html
