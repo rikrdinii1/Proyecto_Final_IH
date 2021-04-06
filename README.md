@@ -1,7 +1,7 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
 ![GitHub language count](https://img.shields.io/github/languages/count/rikrdinii1/Proyecto_Final_IH?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/rikrdinii1/Proyecto_Final_IH?logo=python)
+![GitHub top language](https://img.shields.io/github/languages/top/rikrdinii1/Proyecto_Final_IH?logo=python&style=plastic)
   
 # Proyecto Final Ironhack
 Proyecto Final Ironhack de Ricardo Fuentes
